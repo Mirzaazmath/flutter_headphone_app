@@ -2,6 +2,20 @@
 
 A new Flutter project.
 
+
+# Screenshot 1
+
+<img src ="https://github.com/Mirzaazmath/flutter_headphone_app/blob/main/assets/screenshot.png" height="400">
+
+# Screenshot 2
+
+<img src ="https://github.com/Mirzaazmath/flutter_headphone_app/blob/main/assets/screenshot2.png" height="400">
+
+# Result 
+
+<img src ="https://github.com/Mirzaazmath/flutter_headphone_app/blob/main/assets/result.gif" height="400">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
